@@ -60,5 +60,6 @@
     "favicons-webpack-plugin": "^5.0.2",
     "nodemon": "^2.0.15",
     "webpack-pwa-manifest": "^4.3.0"
-  }
+  },
+  "homepage": "https://myusername.github.io/my-app"
 }
